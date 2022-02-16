@@ -4,7 +4,7 @@
 
 ### 1) /league/:leagueId
 
-Returns information a about particular league
+Returns information about a particular league
 
 ### 2) /league/:leagueId/results
 

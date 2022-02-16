@@ -4,12 +4,12 @@
 
 ### 1) /league/:leagueId
 
-Returns information about particular league
+Returns information a about particular league
 
 ### 2) /league/:leagueId/results
 
-Returns information about particular league's matches and their scores
+Returns information about a particular league's matches and their scores
 
 ### 3) /league/:leagueId/contestants
 
-Returns information about particular league's contestants
+Returns information about a particular league's contestants
